@@ -29,12 +29,3 @@ I am a Backend Developer and currently learning frontend technology. I am an amb
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/paras245"><img src="https://github-readme-stats.vercel.app/api?username=paras245&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="paras245's GitHub stats" /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/paras245/InvoiceManagementPro" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paras245&repo=InvoiceManagementPro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/paras245/MyPortfolioWebsite" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paras245&repo=MyPortfolioWebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/paras245/DotNetOfficial101" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paras245&repo=DotNetOfficial101&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/paras245/TailWindWebsite" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=paras245&repo=TailWindWebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
