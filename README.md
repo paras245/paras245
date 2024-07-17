@@ -4,7 +4,7 @@ Hi 👋 My name is Paras Panchal
 DotNet and Angular Developer
 ----------------------------
 
-I am a Backend Developer an ambition learner
+I am a Backend Developer and currently learning frontend technology. I am an ambition learner
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [paraspanchal5555@gmail.com](mailto:paraspanchal5555@gmail.com)
